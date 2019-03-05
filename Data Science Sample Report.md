@@ -17,10 +17,10 @@ Date of Publications.
 # **Table of Content** (ToC):
 
 [1. Executive Summary](#executive-summary)  
-[2. Introduction](#conclusions)   
-[3. Methodology](#conclusions)  
-[4. Results](#conclusions)  
-[5. Discussion](#conclusions)  
+[2. Introduction](#introduction)   
+[3. Methodology](#methodology)  
+[4. Results](#results)  
+[5. Discussion](#discussion)  
 [6. Conclusions](#conclusions)  
 [7. Acknowledgements](#acknowledgements)  
 [8. References](#references)  
