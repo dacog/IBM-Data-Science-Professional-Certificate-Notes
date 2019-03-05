@@ -16,66 +16,55 @@ Date of Publications.
 
 # **Table of Content** (ToC):
 
-[1. Executive Summary](#executive-summary)  
-[2. Introduction](#introduction)   
+[1. Executive Summary](#1-executive-summary)  
+[2. Introduction](#2-introduction)   
 [3. Methodology](#3-methodology)  
-[4. Results](#results)  
-[5. Discussion](#discussion)  
-[6. Conclusions](#conclusions)  
-[7. Acknowledgements](#acknowledgements)  
-[8. References](#references)  
-[9. Appendices](#appendices)  
+[4. Results](#4-results)  
+[5. Discussion](#5-discussion)  
+[6. Conclusions](#6-conclusions)  
+[7. Acknowledgements](#7-acknowledgements)  
+[8. References](#8-references)  
+[9. Appendices](#9-appendices)  
  
 
 
-# 1. Executive Summary/ Abstract 
-<a name="executive-summary"/> 
+# 1. Executive Summary 
 _explain your arguments and conclusions in 3 paragraphs or less (if the doc is too long, you may use more._
 
 
-# 2. Introduction <a name="introduction"/> 
-
+# 2. Introduction
 _set up the problem for the reader. You may include a review of relevant research on the subject._
 
 _introduce your research questions and hyphotesis_
 
 
 # 3. Methodology
-<a name="methodology"/> 
-
 _introduce the research method and data sources used in the analysis. If you collected data, explain the process. You may refer to literature backup your resarch choices_
 
 
 # 4.  Results
-<a name="results"/> 
-
 _present empirical results_
 _reports on the business sector usually don't go into so much technical details_
 _use diagrams, charts, tables_
 
 
-# 5. Discussion
-<a name="discussion"/> 
+# 5. Discussion 
 _craft your main arguments building on the results presented_
 _you might only return partial answers, so you may explain why._
 
 
 # 6. Conclusions
-<a name="conclusions"/> 
 _generalize specific findings_
 _identify possible developments in research and applications that could result from the research_
 
 
 # 7. Acknowledgements
-<a name="acknowledgements"/> 
 _always good to acknowledge thoso who helped_
 
 
 # 8. References
-<a name="references"/> 
 
 # 9. Appendices
-<a name="appendices"/> 
 _(if needed)_
 
 ****
