@@ -18,7 +18,7 @@ Date of Publications.
 
 [1. Executive Summary](#executive-summary)  
 [2. Introduction](#introduction)   
-[3. Methodology](#methodology)  
+[3. Methodology](#3-methodology)  
 [4. Results](#results)  
 [5. Discussion](#discussion)  
 [6. Conclusions](#conclusions)  
