@@ -27,9 +27,9 @@ Date of Publications.
 [9. Appendices](#appendices)  
  
 
-<a name="executive-summary"/> 
-# 3. Executive Summary/ Abstract 
 
+# 3. Executive Summary/ Abstract 
+<a name="executive-summary"/> 
 _explain your arguments and conclusions in 3 paragraphs or less (if the doc is too long, you may use more._
 
 <a name="detailed-contents"/> 
