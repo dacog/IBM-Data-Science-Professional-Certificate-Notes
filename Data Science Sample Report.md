@@ -33,7 +33,7 @@ Date of Publications.
 _explain your arguments and conclusions in 3 paragraphs or less (if the doc is too long, you may use more._
 
 
-# 2. Introduction <a name="detailed-contents"/> 
+# 2. Introduction <a name="introduction"/> 
 
 _set up the problem for the reader. You may include a review of relevant research on the subject._
 
@@ -41,13 +41,13 @@ _introduce your research questions and hyphotesis_
 
 
 # 3. Methodology
-<a name="detailed-contents"/> 
+<a name="methodology"/> 
 
 _introduce the research method and data sources used in the analysis. If you collected data, explain the process. You may refer to literature backup your resarch choices_
 
 
 # 4.  Results
-<a name="detailed-contents"/> 
+<a name="results"/> 
 
 _present empirical results_
 _reports on the business sector usually don't go into so much technical details_
@@ -55,7 +55,7 @@ _use diagrams, charts, tables_
 
 
 # 5. Discussion
-<a name="detailed-contents"/> 
+<a name="discussion"/> 
 _craft your main arguments building on the results presented_
 _you might only return partial answers, so you may explain why._
 
